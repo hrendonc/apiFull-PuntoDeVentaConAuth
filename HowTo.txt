@@ -1,0 +1,32 @@
+1. Crear la carpeta del proyecto
+2. Crear la estructura del proyecto:
+> npx express-generator
+3. Instalar las dependencias:
+> npm i 
+4. Injstalar otras dependencias necesarias:
+>  npm i bcrypt dotenv jsonwebtoken mongoose
+5. Abrir VSC
+> code .
+
+6. Crear la siguiente estructura:
+
+- package.json
+- package-lock.json
+- app.js
+- .env
+> routes
+	- auth.router.js
+	- index.js
+	- order.routes.js
+	- products.router.js
+	- users.router.js
+> model
+	-
+> auth
+	-
+	-
+> bin
+	-
+
+7. 
+
